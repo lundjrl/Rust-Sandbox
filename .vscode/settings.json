@@ -1,3 +1,8 @@
 {
-  "cSpell.words": ["reqwest", "tempdir", "tempfile"]
+  "cSpell.words": ["reqwest", "tempdir", "tempfile"],
+  "rust-analyzer.linkedProjects": [
+    "./grrs/Cargo.toml",
+    "./Playground/Cargo.toml",
+    "./Playground/Cargo.toml"
+  ]
 }
